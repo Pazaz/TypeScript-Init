@@ -2,6 +2,7 @@
   "name": "typescript-init",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "start": "nodemon src/app.ts",
     "test": "jest"
